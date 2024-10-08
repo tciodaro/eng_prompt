@@ -1,0 +1,13 @@
+datasets:
+    machado:
+        label: 'machado-assis'
+        source: 'https://www.kaggle.com/datasets/luxedo/machado-de-assis?resource=download'
+        filepath: '../data/machado/obras_machado_de_assis.csv'
+
+
+     literatura_br:
+        label: 'corpus-literario'
+        source: 'https://www.kaggle.com/datasets/rtatman/brazilian-portuguese-literature-corpus'
+        filepath: '../data/Brazilian_Portugese_Corpus/'
+
+

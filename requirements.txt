@@ -1,0 +1,13 @@
+jupyterlab
+ipywidgets
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.14.1
+scikit-learn==1.5.2
+torch==2.4.1
+transformers==4.45.1
+langchain==0.3.2
+word2vec==0.11.1
+gensim==4.3.3
+matplotlib==3.9.2
+unidecode
