@@ -10,8 +10,11 @@ google-generativeai
 langchain_community-0.3.3
 langchain==0.3.4
 word2vec==0.11.1
+openai==1.52.2
 gensim==4.3.3
 matplotlib==3.9.2
 unidecode
 bertopic
 python-dotenv
+rouge
+sacrebleu
