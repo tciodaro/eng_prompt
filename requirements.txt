@@ -19,3 +19,6 @@ python-dotenv
 rouge
 sacrebleu
 tiktoken
+fastparquet
+langchain_experimental
+pandarallel
