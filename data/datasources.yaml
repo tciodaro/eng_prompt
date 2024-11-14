@@ -10,4 +10,9 @@ datasets:
         source: 'https://www.kaggle.com/datasets/rtatman/brazilian-portuguese-literature-corpus'
         filepath: '../data/Brazilian_Portugese_Corpus/'
 
+    thesimpsons:
+        label: 'thesimpsons'
+        source: 'https://www.kaggle.com/datasets/prashant111/the-simpsons-dataset/data?select=simpsons_script_lines.csv'
+        filepath: '../data/thesimpsons/'
+
 
